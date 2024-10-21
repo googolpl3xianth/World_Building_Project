@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 1ce087385a9cc5e4480eb2923069f1f7
+timeCreated: 1444933511
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bowl_corner1
+    100002: bowl_corner2
+    100004: bowl_platform
+    100006: bowl_straight
+    100008: corner_l
+    100010: corner_m
+    100012: corner_s
+    100014: flybox
+    100016: kicker_
+    100018: kicker_m
+    100020: kicker_s
+    100022: Plane001
+    100024: platform_a
+    100026: platform_b
+    100028: rail_a
+    100030: rail_b
+    100032: rail_l
+    100034: rail_m
+    100036: rail_s
+    100038: rail_straight
+    100040: //RootNode
+    100042: stairs_l
+    100044: stairs_m
+    100046: stairs_s
+    400000: bowl_corner1
+    400002: bowl_corner2
+    400004: bowl_platform
+    400006: bowl_straight
+    400008: corner_l
+    400010: corner_m
+    400012: corner_s
+    400014: flybox
+    400016: kicker_
+    400018: kicker_m
+    400020: kicker_s
+    400022: Plane001
+    400024: platform_a
+    400026: platform_b
+    400028: rail_a
+    400030: rail_b
+    400032: rail_l
+    400034: rail_m
+    400036: rail_s
+    400038: rail_straight
+    400040: //RootNode
+    400042: stairs_l
+    400044: stairs_m
+    400046: stairs_s
+    2300000: bowl_corner1
+    2300002: bowl_corner2
+    2300004: bowl_platform
+    2300006: bowl_straight
+    2300008: corner_l
+    2300010: corner_m
+    2300012: corner_s
+    2300014: flybox
+    2300016: kicker_
+    2300018: kicker_m
+    2300020: kicker_s
+    2300022: Plane001
+    2300024: platform_a
+    2300026: platform_b
+    2300028: rail_a
+    2300030: rail_b
+    2300032: rail_l
+    2300034: rail_m
+    2300036: rail_s
+    2300038: rail_straight
+    2300040: stairs_l
+    2300042: stairs_m
+    2300044: stairs_s
+    3300000: bowl_corner1
+    3300002: bowl_corner2
+    3300004: bowl_platform
+    3300006: bowl_straight
+    3300008: corner_l
+    3300010: corner_m
+    3300012: corner_s
+    3300014: flybox
+    3300016: kicker_
+    3300018: kicker_m
+    3300020: kicker_s
+    3300022: Plane001
+    3300024: platform_a
+    3300026: platform_b
+    3300028: rail_a
+    3300030: rail_b
+    3300032: rail_l
+    3300034: rail_m
+    3300036: rail_s
+    3300038: rail_straight
+    3300040: stairs_l
+    3300042: stairs_m
+    3300044: stairs_s
+    4300000: rail_b
+    4300002: bowl_platform
+    4300004: stairs_l
+    4300006: bowl_straight
+    4300008: bowl_corner1
+    4300010: bowl_corner2
+    4300012: corner_l
+    4300014: corner_s
+    4300016: corner_m
+    4300018: flybox
+    4300020: kicker_
+    4300022: kicker_s
+    4300024: kicker_m
+    4300026: stairs_s
+    4300028: stairs_m
+    4300030: rail_straight
+    4300032: rail_s
+    4300034: rail_m
+    4300036: rail_l
+    4300038: platform_b
+    4300040: platform_a
+    4300042: rail_a
+    4300044: Plane001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

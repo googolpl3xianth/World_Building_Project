@@ -1,0 +1,6 @@
+Description:
+
+This is a curated kit of game-ready assets that you will be using for our Landbashing assignment. It includes a variety of 3D models, textures and simple scripts that were hand picked to give you an arsenal with which you can quickly prototype your worlds without having to make everything from scratch. At the same time, these assets showcase a wide range of modeling techniques and representation styles that are used in contemporary video game creation. They are given to you to deconstruct them, in order to understand how they are made and how they work inside the game engine. Once you have done that you can repurpose, manipulate and collage them in unexpected ways to create your own world. We expect you to experiment with them and make them your own in some way, and not just use them as they are. Imagine seeing these objects as an alien for the first time, without knowing what their use or purpose really is. Examine their form, texture and color and use them in your world in a creative way.  
+
+Disclaimer:
+This asset kit has been put together mostly from free assets and models but also includes some assets that were specifically bought for this class. It is for educational use only. Please do not use or redistribute them after class.
